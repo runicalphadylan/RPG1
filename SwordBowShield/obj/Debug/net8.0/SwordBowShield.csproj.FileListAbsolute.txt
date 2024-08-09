@@ -1,0 +1,14 @@
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\bin\Debug\net8.0\SwordBowShield.exe
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\bin\Debug\net8.0\SwordBowShield.deps.json
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\bin\Debug\net8.0\SwordBowShield.runtimeconfig.json
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\bin\Debug\net8.0\SwordBowShield.dll
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\bin\Debug\net8.0\SwordBowShield.pdb
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.AssemblyInfoInputs.cache
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.AssemblyInfo.cs
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.csproj.CoreCompileInputs.cache
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.dll
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\refint\SwordBowShield.dll
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.pdb
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.genruntimeconfig.cache
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\ref\SwordBowShield.dll

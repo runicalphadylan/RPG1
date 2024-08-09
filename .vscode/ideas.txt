@@ -1,0 +1,12 @@
+Enemy types
+Adventurer  3/3/3  3<6<9
+Swordsman   5/2/2  5<7<9
+Archer      2/2/5  2<4<9
+Paladin     2/5/2  2<7<9
+Knight      4/4/1  4<8<9
+Rogue       4/1/4  4<8<9
+Crossbowman 1/4/4  1<5<9
+
+rolls 1-10
+
+2<6<8
