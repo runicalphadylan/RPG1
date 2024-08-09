@@ -129,6 +129,7 @@ public class Sword_Shield_Bow
 		            Console.WriteLine("You have Won!");
 		            Console.WriteLine("=============");
                     killcount++;
+                    enemyhp = 3;
                         if(killcount == 3){
                         Console.WriteLine("You have been healed.");
                         playerhp = 5;
