@@ -36,7 +36,6 @@ public class Sword_Shield_Bow
         Random rnd2 = new Random();
         bool alive = true;
         int playerhp = 5;
-        int enemyhp  = 3;
         int killcount = 0;
         Console.WriteLine("===================");
 		Console.WriteLine("Your Journey Begins");
@@ -51,8 +50,8 @@ public class Sword_Shield_Bow
             int encounter = rnd.Next(6);
             Console.WriteLine("You have encountered a " + name[encounter]);
             bool InCombat = true;
-            enemyhp = 3;
-            while(InCombat)
+            int enemyhp = 3;
+            while (InCombat)
             {
                 Console.WriteLine("What weapon will you use?");
                 Console.WriteLine("||Sword//Bow//Shield||");
