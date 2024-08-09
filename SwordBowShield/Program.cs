@@ -139,7 +139,7 @@ public class Sword_Shield_Bow
         }   
 
 
-
+        Console.ReadKey();
 
 
 
