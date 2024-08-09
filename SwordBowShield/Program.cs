@@ -51,6 +51,7 @@ public class Sword_Shield_Bow
             int encounter = rnd.Next(6);
             Console.WriteLine("You have encountered a " + name[encounter]);
             bool InCombat = true;
+            enemyhp = 3;
             while(InCombat)
             {
                 Console.WriteLine("What weapon will you use?");
@@ -129,7 +130,6 @@ public class Sword_Shield_Bow
 		            Console.WriteLine("You have Won!");
 		            Console.WriteLine("=============");
                     killcount++;
-                    enemyhp = 3;
                         if(killcount == 3){
                         Console.WriteLine("You have been healed.");
                         playerhp = 5;
