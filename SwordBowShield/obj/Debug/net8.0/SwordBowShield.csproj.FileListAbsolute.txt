@@ -12,3 +12,4 @@ C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\refint\SwordBowS
 C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.pdb
 C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.genruntimeconfig.cache
 C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\ref\SwordBowShield.dll
+C:\Users\My Desktop\Desktop\SBS\SwordBowShield\obj\Debug\net8.0\SwordBowShield.sourcelink.json
