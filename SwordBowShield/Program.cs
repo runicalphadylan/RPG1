@@ -57,10 +57,11 @@ public class Sword_Shield_Bow
                 Console.WriteLine("||Sword//Bow//Shield||");
 
                 int enemyroll = rnd2.Next(8);
-
-                switch(Console.ReadLine())
+                String choice = Console.ReadLine();
+                choice = choice.ToUpper();
+                switch(choice)
                 {
-                    case "Sword":
+                    case "SWORD":
                         if(enemyroll<xsword_chance[encounter])
                         {
                         Console.WriteLine("The enemy used a sword");
@@ -77,7 +78,7 @@ public class Sword_Shield_Bow
                         Console.WriteLine("Enemy Hp = " + enemyhp);
                         };
                         break;
-                    case "Bow":
+                    case "BOW":
                         if(enemyroll<xsword_chance[encounter]){
                         Console.WriteLine("The enemy used a sword");
                         Console.WriteLine("Win");
@@ -93,7 +94,7 @@ public class Sword_Shield_Bow
                         Console.WriteLine("Your Hp = " + playerhp);
                         };
                         break;
-                    case "Shield":
+                    case "SHIELD":
                         if(enemyroll<xsword_chance[encounter]){
                         Console.WriteLine("The enemy used a sword");
                         Console.WriteLine("Lose");
@@ -109,7 +110,7 @@ public class Sword_Shield_Bow
                         Console.WriteLine("Draw");
                         };
                         break;
-                    case "Exit":
+                    case "EXIT":
                         alive = false;
                         InCombat = false;
                         break;
@@ -139,7 +140,7 @@ public class Sword_Shield_Bow
         }   
 
 
-        Console.ReadKey();
+        System.Environment.Exit(1);
 
 
 

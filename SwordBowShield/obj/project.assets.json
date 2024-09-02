@@ -8,19 +8,24 @@
     "net8.0": []
   },
   "packageFolders": {
-    "C:\\Users\\My Desktop\\.nuget\\packages\\": {}
+    "C:\\Users\\Florence Asi\\.nuget\\packages\\": {},
+    "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\My Desktop\\Desktop\\SBS\\SwordBowShield\\SwordBowShield.csproj",
+      "projectUniqueName": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
       "projectName": "SwordBowShield",
-      "projectPath": "C:\\Users\\My Desktop\\Desktop\\SBS\\SwordBowShield\\SwordBowShield.csproj",
-      "packagesPath": "C:\\Users\\My Desktop\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\My Desktop\\Desktop\\SBS\\SwordBowShield\\obj\\",
+      "projectPath": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
+      "packagesPath": "C:\\Users\\Florence Asi\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\obj\\",
       "projectStyle": "PackageReference",
+      "fallbackFolders": [
+        "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
+      ],
       "configFilePaths": [
-        "C:\\Users\\My Desktop\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Florence Asi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
