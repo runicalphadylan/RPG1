@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("SwordBowShield")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b71229470977535fd00d72098b24d075cc086b3e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8b72f9ba2e6d705d21b3a25541e7ff20807bf2d1")]
 [assembly: System.Reflection.AssemblyProductAttribute("SwordBowShield")]
 [assembly: System.Reflection.AssemblyTitleAttribute("SwordBowShield")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
