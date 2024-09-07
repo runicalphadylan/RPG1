@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj": {}
+    "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj": {}
   },
   "projects": {
-    "c:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj": {
+    "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
+        "projectUniqueName": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
         "projectName": "SwordBowShield",
-        "projectPath": "c:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
+        "projectPath": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\SwordBowShield.csproj",
         "packagesPath": "C:\\Users\\Florence Asi\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\obj\\",
+        "outputPath": "C:\\Users\\Florence Asi\\Documents\\Repositories\\RPG1\\SwordBowShield\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
